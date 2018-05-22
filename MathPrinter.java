@@ -1,7 +1,7 @@
 /**
  * Do some math in the println statement.
  * 
- * @author Kathlen O'Brien
+ * @author me
  */
 public class MathPrinter
 {
